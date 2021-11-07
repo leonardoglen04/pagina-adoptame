@@ -1,0 +1,265 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#header {
+	margin:auto;
+	width:500px;
+	font-family:Arial;
+}
+
+ul {
+	list-style:none;
+}
+
+.nav > li {
+	float:right;
+}
+
+.nav li a {
+	background-color:#FFFFFF;
+	color:#BCF5A9;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+
+.nav li a:hover {
+	background-color:#0B3B39;
+}
+
+body{
+	background-image: url(img/fondo10.jpg);
+	background-size: 100%;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+
+#h1{
+	font-family: monospace;
+	color: black;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.titulo {
+	font-size: 18px;
+	font-weight: 400;
+	color:#ffffff;
+	background:#F1CB6E;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 0px 0px 35px 35px;
+	-moz-border-radius:0px 0px 35px 35px;
+	-webkit-border-radius:0px 0px 35px 35px;
+}
+
+#texto1{
+	text-align: justify;
+	font-size: 18px;
+}
+
+#imagen1 {
+	width:450px;
+	height:320px;
+	margin:1%;
+}
+
+.caja1 {
+	font-family:cursive;
+	color:#080809;
+	font-size:18px;
+	font-weight:400px;
+	background:#FBEFF2;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+
+#texto2{
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen2 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja2 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#CEF6F5;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+
+#texto3 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen3 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja3 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+#texto4 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen4 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja4 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}#texto5 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen5 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja5 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}#texto6 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen6 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja6 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+#texto7 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen7 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja7 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+#texto8 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen8 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja8 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}
+#texto9 {
+	text-align: justify;
+	font-size:18px;
+}
+
+#imagen9 {
+	width:500px;
+	height:350px;
+	margin:1%;
+}
+
+.caja9 {
+	font-family:cursive;
+	color:#000000;
+	font-size:18px;
+	font-weight:400px;
+	background:#A9F5BC;
+	opacity:85%;
+	padding:20px;
+	border-radius:35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px;
+}

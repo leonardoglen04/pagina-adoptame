@@ -1,0 +1,43 @@
+body{
+    background-image: url(css.png);
+	font-family: arial, helvica;
+
+}
+body{
+	background-color: #900C3F
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #979A9A;
+	width: 80%;
+	max-width: 863px;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 10%;
+	display: block;	
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+ 
+ .menu li a:hover{
+ 	background: #82E0AA
+ }
+.titulo{
+	font-size:14vh;
+	margin:0 auto;
+	width:100%;
+	text-align:center;
+	font-family: "Lucida Handwriting";
+
+
+
+
+
+
+
